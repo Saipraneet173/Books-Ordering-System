@@ -73,7 +73,7 @@ BookManagement/
 
 ### 📐 Class Diagram
 
-![Class Diagram](./ClassDiagram.jpg)
+![Class Diagram](./class-diagram.pdf)
 
 The UML class diagram above illustrates the complete object-oriented architecture of the system:
 
