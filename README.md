@@ -104,7 +104,7 @@ The UML class diagram above illustrates the complete object-oriented architectur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/BookManagement.git
+   git clone https://github.com/Saipraneet173/Books-Ordering-System.git
    cd BookManagement
    ```
 
